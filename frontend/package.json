@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/satabartosarkar123/BookStore",
+  "homepage": "https://satabartosarkar123.github.io/BookStore",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
