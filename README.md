@@ -1,0 +1,1 @@
+In the .env file of BACKEND folder, kindly put the correct password. In case you wish to connet to own cluster, usethe connection link.
